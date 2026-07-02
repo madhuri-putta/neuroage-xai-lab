@@ -14,7 +14,7 @@
 Clone the repo and install dependencies:
 
 ```bash
-git clone https://github.com/mrsingh1072/neuroage-xai-lab.git
+git clone https://github.com/madhuri-putta/neuroage-xai-lab
 cd neuroage-xai-lab
 cd backend
 pip install -r requirements.txt
