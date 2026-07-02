@@ -90,10 +90,8 @@ Backend: [http://localhost:5000](http://localhost:5000)
 
 ## 📝 Author & Contact
 
-- **Name:** Saurabh Kumar
-- **GitHub:** [mrsingh1072](https://github.com/mrsingh1072)
-- **LinkedIn:** [Saurabh Singh](https://www.linkedin.com/in/saurabh-singh-959b48323?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-- **Mobile:** 8709905612
+- **Name:** Madhuri Putta
+- **Mobile:** 7013633606
 
 ---
 
@@ -329,7 +327,7 @@ git push heroku main
 ssh -i key.pem ec2-user@instance-ip
 
 # 3. Clone repo
-git clone https://github.com/mrsingh1072/neuroage-xai-lab.git
+git clone https://github.com/madhuri-putta/neuroage-xai-lab
 
 # 4. Setup & run with Docker
 cd neuroage-xai-lab
@@ -442,16 +440,6 @@ This project implements techniques from:
 This project is licensed under the **MIT License** - see [LICENSE](LICENSE) file for details.
 
 ---
-
-## 📞 Contact & Support
-
-- **Author**: NeuroAge XAI Lab
-- **GitHub**: [mrsingh1072/neuroage-xai-lab](https://github.com/mrsingh1072/neuroage-xai-lab)
-- **Issues**: [GitHub Issues](https://github.com/mrsingh1072/neuroage-xai-lab/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/mrsingh1072/neuroage-xai-lab/discussions)
-
----
-
 ## 🙏 Acknowledgments
 
 - **OASIS Dataset**: Marcus et al., Washington University School of Medicine
